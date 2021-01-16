@@ -3,9 +3,9 @@ title: Test page
 excerpt: This is the excerpt
 template: page
 ---
-## Lorem ipsum
+## This is content
 
 Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 
-- Lorem ipsum
-- dolor sit amet
+*   Lorem ipsum
+*   dolor sit amet
