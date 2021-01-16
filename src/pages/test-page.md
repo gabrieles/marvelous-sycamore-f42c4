@@ -1,6 +1,6 @@
 ---
 title: Test page
-excerpt: Thsi is the excerpt
+excerpt: This is the excerpt
 template: page
 ---
 ## Lorem ipsum
